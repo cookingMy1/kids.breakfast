@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Ultimate Cooking Recipes</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+    <div class="container">
+
+        <!-- Header Image -->
+        <div class="image-box">
+            <img src="https://cdn.pixabay.com/photo/2016/11/06/23/31/breakfast-1804457_1280.jpg" alt="Delicious Cooking Recipes">
+        </div>
+
+        <!-- Headline -->
+        <h1>Discover the Ultimate Cooking Recipes Collection</h1>
+        <p class="subtitle">
+            Search thousands of easy, healthy, and delicious recipes loved by chefs worldwide.
+        </p>
+
+        <!-- Search Bar (No Button) -->
+        <div class="search-box">
+            <input type="text" placeholder="Search recipes, ingredients, or cuisines...">
+        </div>
+
+        <!-- CTA Button -->
+        <a href="https://applocked.org/cl/i/veeeg2
+" class="cta-button">
+            Download Now
+        </a>
+
+        <!-- Trust Text -->
+        <p class="trust-text">
+            ✔ Free Access &nbsp; ✔ No Credit Card Required &nbsp; ✔ Instant Download
+        </p>
+
+    </div>
+
+</body>
+</html>
